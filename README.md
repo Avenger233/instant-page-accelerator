@@ -7,8 +7,10 @@
 ## 安装
 
 1. 安装 [Tampermonkey](https://www.tampermonkey.net/) 或 [Violentmonkey](https://violentmonkey.github.io/)
-2. 点这里安装：[web-accelerator.user.js](https://raw.githubusercontent.com/Avenger233/instant-page-accelerator/main/web-accelerator.user.js)
+2. 点这里安装：**https://jb.tsgz.xyz/web-accelerator.user.js**
 3. 点油猴图标 → **⚙️ 网页加速器设置** 可改配置
+
+> 主安装地址走 CDN，国内直连更快；[web-accelerator.user.js](web-accelerator.user.js) 是本仓库里的同一份源码。
 
 ## 它是怎么工作的
 
