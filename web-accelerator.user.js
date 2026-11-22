@@ -8,8 +8,8 @@
 // @noframes
 // @homepageURL   https://github.com/Avenger233/instant-page-accelerator
 // @supportURL    https://github.com/Avenger233/instant-page-accelerator/issues
-// @updateURL     https://raw.githubusercontent.com/Avenger233/instant-page-accelerator/main/web-accelerator.user.js
-// @downloadURL   https://raw.githubusercontent.com/Avenger233/instant-page-accelerator/main/web-accelerator.user.js
+// @updateURL     https://jb.tsgz.xyz/web-accelerator.user.js
+// @downloadURL   https://jb.tsgz.xyz/web-accelerator.user.js
 // @run-at       document-end
 // @grant        GM_getValue
 // @grant        GM_setValue
